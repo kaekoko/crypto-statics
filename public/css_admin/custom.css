@@ -1,0 +1,145 @@
+.num-dashboard{
+    font-weight: bold;
+    color: #000;
+    letter-spacing: 2px;
+    /* font-size: 30px; */
+    border-radius: 50%;
+}
+
+.cry-logo{
+    border-radius: 25px !important;
+}
+
+.buy,.sell {
+    background-color: #e5587a;
+    border: 2px solid #fff;
+    font-size: 35px;
+    padding: 30px;
+    box-shadow: 2px 2px 5px rgb(0,0,0,0.7);
+}
+.buy:hover, .sell:hover{
+    background-color: rgb(0,0,0,0.7);
+    border: 2px solid #fff;
+}
+
+.number{
+    padding: 30px;
+    box-shadow: 2px 2px 5px rgb(0,0,0,0.7);
+}
+
+.label{
+    font-weight: bold;
+    color: #000;
+    letter-spacing: 2px;
+    text-align: center !important;
+}
+
+.title-card{
+    text-transform: capitalize;
+}
+
+.enter-section{
+    float: right !important;
+}
+
+.log-head{
+    font-size: 18px;
+    line-height: 1.5;
+    letter-spacing: 2px;
+    margin-top: 5px;
+}
+
+.pre-log{
+    line-height: 1.4;
+    color: #36ba01;
+    background-color: #000;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 25px;
+    font-family: 'VT323', monospace;
+}
+
+#card-list{
+    border: 2px solid #e5587a !important;
+    border-radius: 25px;
+    box-shadow: 2px 2px 5px rgb(0,0,0,0.7);
+    background-color: #e5587a !important;
+}
+
+.h-price {
+    font-weight: bold;
+    font-size: 20px;
+    color: #000 !important;
+    font-weight: bold;
+}
+
+.h-value {
+    font-weight: bold;
+    color: #000 !important;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.p-time{
+    color: #000 !important;
+    font-weight: bold;
+    font-weight: 900;
+}
+
+.p-2d{
+    color: #000 !important;
+    font-weight: bold;
+}
+
+.simplebar-mask{
+    background-color: #e5587a;
+}
+
+.sidebar-item, .sidebar-nav{
+    background-color: #e5587a;
+}
+
+.sidebar-header{
+    color: #000 !important;
+    font-weight: bold;
+}
+
+.sidebar-link, a.sidebar-link{
+    background-color: #e5587a;
+    color: rgb(0,0,0,0.7) !important;
+    font-weight: bold;
+}
+
+.sidebar-item.active{
+    background-color: rgb(0,0,0,0.7) !important;
+}
+
+.sidebar-item.active > a.sidebar-link{
+    color: #fff !important; 
+}
+
+.sidebar-link:hover, a.sidebar-link:hover{
+    color: #fff !important;
+}
+
+.sidebar-brand{
+    font-size: 40px;
+    text-shadow: 2px 2px 5px rgb(0,0,0,0.7);
+}
+
+.offday{
+    font-size: 17px !important;
+    border-radius: 25px !important;
+    /* padding: 10px !important; */
+    padding-top: 20px !important;
+    cursor: pointer;
+}
+
+.swal2-styled.swal2-confirm:focus{
+    box-shadow: none !important;
+}
+
+i{
+    color: rgb(0,0,0,0.5) !important;
+    font-weight: bold !important;
+}
